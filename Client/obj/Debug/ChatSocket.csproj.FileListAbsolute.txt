@@ -1,0 +1,10 @@
+C:\Users\huutr\Desktop\Client\ChatSocket\bin\Debug\ChatSocket.exe.config
+C:\Users\huutr\Desktop\Client\ChatSocket\bin\Debug\ChatSocket.exe
+C:\Users\huutr\Desktop\Client\ChatSocket\bin\Debug\ChatSocket.pdb
+C:\Users\huutr\Desktop\Client\ChatSocket\obj\Debug\ChatSocket.csprojAssemblyReference.cache
+C:\Users\huutr\Desktop\Client\ChatSocket\obj\Debug\ChatSocket.Client.resources
+C:\Users\huutr\Desktop\Client\ChatSocket\obj\Debug\ChatSocket.Properties.Resources.resources
+C:\Users\huutr\Desktop\Client\ChatSocket\obj\Debug\ChatSocket.csproj.GenerateResource.cache
+C:\Users\huutr\Desktop\Client\ChatSocket\obj\Debug\ChatSocket.csproj.CoreCompileInputs.cache
+C:\Users\huutr\Desktop\Client\ChatSocket\obj\Debug\ChatSocket.exe
+C:\Users\huutr\Desktop\Client\ChatSocket\obj\Debug\ChatSocket.pdb

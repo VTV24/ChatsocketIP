@@ -1,0 +1,10 @@
+C:\Users\huutr\Desktop\ChatSocketIp\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\huutr\Desktop\ChatSocketIp\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\huutr\Desktop\ChatSocketIp\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\huutr\Desktop\ChatSocketIp\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\huutr\Desktop\ChatSocketIp\Server\bin\Debug\Server.exe.config
+C:\Users\huutr\Desktop\ChatSocketIp\Server\bin\Debug\Server.exe
+C:\Users\huutr\Desktop\ChatSocketIp\Server\bin\Debug\Server.pdb
+C:\Users\huutr\Desktop\ChatSocketIp\Server\obj\Debug\Server.Server.resources
+C:\Users\huutr\Desktop\ChatSocketIp\Server\obj\Debug\Server.exe
+C:\Users\huutr\Desktop\ChatSocketIp\Server\obj\Debug\Server.pdb
